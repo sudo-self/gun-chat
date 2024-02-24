@@ -9,7 +9,7 @@
 
 {#if $nav === 'settings'}
   <Page>
-    <Nav>Sign In</Nav>
+    <Nav>Signin </Nav>
     <Settings />
     <Footer />
   </Page>
