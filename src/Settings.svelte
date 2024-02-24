@@ -12,18 +12,18 @@
       $nav = 'messages';
     }}
   >
-    <label id="name-label">ENTER YOUR NICKNAME</label>
+    <label id="name-label">nickname</label>
     <Input
       bind:value={$user}
       maxLength="50"
-      placeholder="SWAY"
+      placeholder="sudo-self"
       ariaLabelledBy="name-label"
     />
-    <label id="chat-label">ROOMNAME</label>
+    <label id="chat-label">topic</label>
     <Input
       bind:value={$chatTopic}
       maxLength="50"
-      placeholder="ROOMNAME"
+      placeholder="chat topic"
       ariaLabelledBy="chat-label"
     />
   </form>
