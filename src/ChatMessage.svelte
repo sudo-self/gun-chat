@@ -4,7 +4,7 @@
 
   const messageClass = message.who === sender ? 'sent' : 'received';
 
-  const avatar = `https://api.dicebear.com/7.x/adventurer/svg?seed=tes.svg`;
+  const avatar = `https://avatars.dicebear.com/api/initials/${message.who}.svg`;
 
   const ts = new Date(message.when);
 </script>
