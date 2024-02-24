@@ -17,7 +17,7 @@
   <Page>
     <Nav
       showBack
-      backText="Sign In"
+      backText="Home"
       on:back={() => {
         $nav = 'settings';
       }}
