@@ -20,6 +20,6 @@
     display: flex;
     flex-direction: column;
     max-width: 640px;
-    background-color: white;
+    background-color: #585d58;
   }
 </style>
