@@ -16,14 +16,14 @@
     <Input
       bind:value={$user}
       maxLength="50"
-      placeholder="Steve Jobs"
+      placeholder="SWAY"
       ariaLabelledBy="name-label"
     />
-    <label id="chat-label">CHAT TOPIC</label>
+    <label id="chat-label">ROOMNAME</label>
     <Input
       bind:value={$chatTopic}
       maxLength="50"
-      placeholder="Chat topic"
+      placeholder="ROOMNAME"
       ariaLabelledBy="chat-label"
     />
   </form>
