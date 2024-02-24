@@ -2,7 +2,7 @@
   Made with
   <span>♥️</span>
   by
-  <a href="https://koenvangilst.nl">sudo-self</a>
+  <a href="https://jessejesse.com">sudo-self</a>
   <br />
   Using
   <a href="https://svelte.dev/">svelte</a>
