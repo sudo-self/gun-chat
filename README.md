@@ -1,1 +1,7 @@
-Gundb.vercel.app
+# GUN Chat
+
+
+```
+npm install
+npm run dev
+```
