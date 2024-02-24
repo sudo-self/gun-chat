@@ -1,1 +1,1 @@
-Gundb.vercell.app
+Gundb.vercel.app
