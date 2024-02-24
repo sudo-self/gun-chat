@@ -2,14 +2,14 @@
   Made with
   <span>♥️</span>
   by
-  <a href="https://koenvangilst.nl">Koen van Gilst</a>
+  <a href="https://koenvangilst.nl">sudo-self</a>
   <br />
   Using
   <a href="https://svelte.dev/">svelte</a>
   and
   <a href="https://gun.eco/">gunDB</a>
   see
-  <a href="https://github.com/vnglst/svelte-gundb-chat">Github</a>
+  <a href="https://github.com/sudo-self">Github</a>
   <br />
   v. {process.env.APP_VERSION} git {process.env.COMMIT_HASH}
 </footer>
