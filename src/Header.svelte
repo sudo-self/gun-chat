@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>Gun.js</h3>
+      <h3>sudo-self</h3>
   {/if}
 </header>
