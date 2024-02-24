@@ -9,7 +9,7 @@
 
 {#if $nav === 'settings'}
   <Page>
-    <Nav>Signin </Nav>
+    <Nav>Svelte Chat</Nav>
     <Settings />
     <Footer />
   </Page>
